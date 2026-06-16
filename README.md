@@ -47,9 +47,9 @@ My focus areas: **Agentic AI · RAG Pipelines · Multi-Agent Orchestration · LL
 ### Projects
 
 #### [multi-agent-research-assistant](#)
-Production-grade document intelligence system with multi-tenant architecture, hybrid retrieval (dense + sparse BM25 fusion), cross-encoder reranking, and hallucination guardrails. Built around real operational constraints — per-tenant vector isolation, latency budgets, and end-to-end LangSmith tracing.
+DeepAgents is a multi-agent AI research assistant built with LangGraph and Groq's Llama models. You enter a research topic, and a team of four specialized AI agents collaborates through a structured graph to produce a comprehensive, reviewed research report — which you can download as .txt or .md.
 
-`Python` · `LangChain` · `ChromaDB` · `FastAPI` · `LangSmith` · `Docker`
+`DeepAgent` · `LangGraph` · `Groq` · `Streamlit` 
 
 ---
 
