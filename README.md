@@ -46,31 +46,31 @@ My focus areas: **Agentic AI · RAG Pipelines · Multi-Agent Orchestration · LL
 
 ### Projects
 
-#### [Enterprise RAG Pipeline](#)
+#### [multi-agent-research-assistant](#)
 Production-grade document intelligence system with multi-tenant architecture, hybrid retrieval (dense + sparse BM25 fusion), cross-encoder reranking, and hallucination guardrails. Built around real operational constraints — per-tenant vector isolation, latency budgets, and end-to-end LangSmith tracing.
 
 `Python` · `LangChain` · `ChromaDB` · `FastAPI` · `LangSmith` · `Docker`
 
 ---
 
-#### [Multi-Agent Research Orchestrator](#)
-LangGraph-powered agent graph implementing a Planner → Researcher → Critic → Synthesizer pipeline. The Critic agent validates factual claims before synthesis, reducing hallucination by design. Features human-in-the-loop checkpoints, shared vector memory across agents, and Pydantic-enforced structured output at every boundary.
+#### [estateiq-ai-real-estate-agent](#)
+A 6-agent LangGraph pipeline that delivers 360° real estate intelligence — market analysis, property scouting, financial modelling, legal compliance, and negotiation strategy — served on a professional Streamlit dashboard.
 
-`Python` · `LangGraph` · `OpenAI` · `ChromaDB` · `Pydantic`
-
----
-
-#### [Agentic Coding Assistant](#)
-Autonomous coding agent using a ReAct loop with sandboxed Docker execution. Writes, executes, reads error output, and iteratively patches its own code without human intervention. MCP-compatible tool layer exposes file I/O, shell execution, and web search as first-class agent tools. Deployed with FastAPI and WebSocket streaming for real-time output.
-
-`Python` · `LangGraph` · `MCP` · `FastAPI` · `Docker` · `WebSocket`
+`Python` · `LangGraph` · `Groq` · `Streamlit` · `LLM`
 
 ---
 
-#### [Stock Market Prediction — ML & DL](#)
-Final year research project predicting stock price movement using an ensemble of classical ML models (Random Forest, XGBoost) and deep learning architectures (LSTM, GRU). Includes feature engineering from OHLCV data, technical indicators (RSI, MACD, Bollinger Bands), and a backtesting framework to evaluate real-world trading signal viability.
+#### [StockSense](#)
+A professional stock market intelligence dashboard built with Streamlit, Plotly, and scikit-learn. Real-time Indian stock data, technical indicators, ML price prediction, and multi-stock comparison.
 
-`Python` · `TensorFlow` · `Scikit-learn` · `XGBoost` · `Pandas` · `Matplotlib`
+`Python` · `LangGraph` · `yfinance` · `Plotly` · `Streamlit` · `Scikit-learn`
+
+---
+
+#### [Business Sales & Profit Dashboard](#)
+An interactive Excel dashboard analysing 8,314 sales transactions across 4 years (2021–2024), covering revenue trends, profit margins, category performance, and state-wise distribution across 49 US states.
+
+`Data cleaning and preparation in Excel` · `Pivot Tables and Pivot Charts` · `Dashboard design with slicers and dynamic charts` · `Business KPI reporting (Revenue, Profit, Margin)` · `Year-over-Year and Month-over-Month trend analysis` 
 
 ---
 
@@ -88,7 +88,7 @@ Production Deployment     —  FastAPI, Docker, async pipelines, graceful degrad
 
 ### Open To
 
-`AI Engineer` · `Agentic AI Engineer` · `Generative AI Engineer` · `LLM Engineer` · `AI Application Developer`
+`AI Engineer` · `Agentic AI Engineer` · `Generative AI Engineer` · `LLM Engineer` · `Data Analyst`
 
 ---
 
