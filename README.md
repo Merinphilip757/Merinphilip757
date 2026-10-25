@@ -1,9 +1,11 @@
-<h1 align="center">Merin Anna Philip</h1>
-
-<p align="center">
-  <b>AI Engineer · Agentic AI · RAG Systems · LLM Applications</b>
-</p>
-
+<div align="center">
+  <h1 style="margin: 0; padding: 0;">
+    Merin Anna Philip
+  </h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=22&duration=2500&pause=1000&color=FFD76A&center=true&vCenter=true&width=600&height=35&lines=AI+Engineer;Building+Multi-Agent+Systems;RAG+%26+LLM+Applications;Turning+AI+Ideas+Into+Products" alt="AI Engineer" />
+  <p style="margin: 4px 0;">
+    <b>AI Engineer · Agentic AI · RAG Systems · LLM Applications</b>
+  </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/merinannaphilip75"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:merinphilip7575@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
