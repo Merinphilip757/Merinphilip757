@@ -1,7 +1,9 @@
 <div align="center">
-  <h1 style="margin: 0; padding: 0;">
-    Merin Anna Philip
-  </h1>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=48&duration=1&pause=999999&color=FF69B4&center=true&vCenter=true&repeat=false&width=750&height=65&lines=Merin+Anna+Philip"
+    alt="Merin Anna Philip"
+  />
+  <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=22&duration=2500&pause=1000&color=FFD76A&center=true&vCenter=true&width=600&height=35&lines=AI+Engineer;Building+Multi-Agent+Systems;RAG+%26+LLM+Applications;Turning+AI+Ideas+Into+Products" alt="AI Engineer" />
   <p style="margin: 4px 0;">
     <b>AI Engineer · Agentic AI · RAG Systems · LLM Applications</b>
@@ -48,28 +50,28 @@ My focus areas: **Agentic AI · RAG Pipelines · Multi-Agent Orchestration · LL
 
 ### Projects
 
-#### [multi-agent-research-assistant](#)
-DeepAgents is a multi-agent AI research assistant built with LangGraph and Groq's Llama models. You enter a research topic, and a team of four specialized AI agents collaborates through a structured graph to produce a comprehensive, reviewed research report — which you can download as .txt or .md.
+#### [multi-agent-research-assistant](#) 🔎
+DeepAgents is a multi-agent AI research assistant built with LangGraph and Groq's Llama models. You enter a research topic, and a team of four specialized AI agents collaborates through a structured graph to produce a comprehensive, reviewed research report. which you can download as .txt or .md.
 
 `DeepAgent` · `LangGraph` · `Groq` · `Streamlit` 
 
 ---
 
-#### [estateiq-ai-real-estate-agent](#)
-A 6-agent LangGraph pipeline that delivers 360° real estate intelligence — market analysis, property scouting, financial modelling, legal compliance, and negotiation strategy — served on a professional Streamlit dashboard.
+#### [estateiq-ai-real-estate-agent](#) 🏡
+A 6-agent LangGraph pipeline that delivers 360° real estate intelligence — market analysis, property scouting, financial modelling, legal compliance, and negotiation strategy served on a professional Streamlit dashboard.
 
 `Python` · `LangGraph` · `Groq` · `Streamlit` · `LLM`
 
 ---
 
-#### [StockSense](#)
+#### [StockSense](#) 📈
 A professional stock market intelligence dashboard built with Streamlit, Plotly, and scikit-learn. Real-time Indian stock data, technical indicators, ML price prediction, and multi-stock comparison.
 
 `Python` · `LangGraph` · `yfinance` · `Plotly` · `Streamlit` · `Scikit-learn`
 
 ---
 
-#### [Business Sales & Profit Dashboard](#)
+#### [Business Sales & Profit Dashboard](#) 💹
 An interactive Excel dashboard analysing 8,314 sales transactions across 4 years (2021–2024), covering revenue trends, profit margins, category performance, and state-wise distribution across 49 US states.
 
 `Data cleaning and preparation in Excel` · `Pivot Tables and Pivot Charts` · `Dashboard design with slicers and dynamic charts` · `Business KPI reporting (Revenue, Profit, Margin)` · `Year-over-Year and Month-over-Month trend analysis` 
@@ -78,13 +80,13 @@ An interactive Excel dashboard analysing 8,314 sales transactions across 4 years
 
 ### Current Focus
 
-```
-Agentic AI Systems        —  multi-agent orchestration, tool use, memory, planning
-RAG Engineering           —  hybrid retrieval, reranking, chunking strategies, guardrails  
-LLMOps & Observability    —  tracing, evaluation, monitoring with LangSmith
-MCP & API Integrations    —  tool-augmented agents with real-world data access
-Production Deployment     —  FastAPI, Docker, async pipelines, graceful degradation
-```
+| Area | What I'm Exploring |
+|:---|:---|
+| Agentic AI Systems | Multi-agent orchestration, tool use, memory, planning |
+| RAG Engineering | Hybrid retrieval, reranking, chunking, guardrails |
+| LLMOps & Observability | Tracing, evaluation, monitoring with LangSmith |
+| MCP & API Integrations | Tool-augmented agents and real-world data access |
+| Production Deployment | FastAPI, Docker, async pipelines, graceful degradation |
 
 ---
 
